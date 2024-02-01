@@ -2,4 +2,4 @@ geckodriver.log
 asolytics.egg-info
 build
 dist
-asolytics/__pycache__
+asolytics/__pycache__.idea
